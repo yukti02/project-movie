@@ -1,0 +1,54 @@
+.para {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+.remove-button {
+    background-color: #ffffff;
+    padding: 8px 16px;
+    font-family: monospace;
+    font-weight: 900;
+    color: #333;
+    border: 1.5px solid #022956;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 0 auto;
+    display: block;
+}
+
+.remove-button:hover {
+    background-color: #022956;
+    color: #fff;
+}
+
+.watchlist {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .watchlist-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 16px 64px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+  }
+
+  .watchlist-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .movie-name {
+    flex: 1;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+  }

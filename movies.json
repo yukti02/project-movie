@@ -1,0 +1,554 @@
+[
+    {
+        "name": "Oppenheimer",
+        "releaseyear": 2023,
+        "rating": 8.6,
+        "reviewscount": "430K"
+    },
+    {
+        "name": "Barbie",
+        "releaseyear": 2023,
+        "rating": 7.2,
+        "reviewscount": "303K"
+    },
+    {
+        "name": "You Are So Not Invited to My Bat Mitzvah",
+        "releaseyear": 2023,
+        "rating": 6,
+        "reviewscount": "16K"
+    },
+    {
+        "name": "The Equalizer 3",
+        "releaseyear": 2023,
+        "rating": 7.1,
+        "reviewscount": "16K"
+    },
+    {
+        "name": "The Little Mermaid",
+        "releaseyear": 2023,
+        "rating": 7.2,
+        "reviewscount": "124K"
+    },
+    {
+        "name": "Poor Things",
+        "releaseyear": 2023,
+        "rating": 8,
+        "reviewscount": "693K"
+    },
+    {
+        "name": "The Nun II",
+        "releaseyear": 2023,
+        "rating": 6,
+        "reviewscount": "11K"
+    },
+    {
+        "name": "Jawan",
+        "releaseyear": 2023,
+        "rating": 7.8,
+        "reviewscount": "47K"
+    },
+    {
+        "name": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+        "releaseyear": 2023,
+        "rating": 7.3,
+        "reviewscount": "33K"
+    },
+    {
+        "name": "Indiana Jones and the Dial of Destiny",
+        "releaseyear": 2023,
+        "rating": 6.7,
+        "reviewscount": "120K"
+    },
+    {
+        "name": "No Hard Feelings",
+        "releaseyear": 2023,
+        "rating": 6.4,
+        "reviewscount": "68K"
+    },
+    {
+        "name": "The Bikeriders",
+        "releaseyear": 2023,
+        "rating": 8.5,
+        "reviewscount": "359K"
+    },
+    {
+        "name": "The Last Voyage of the Demeter",
+        "releaseyear": 2023,
+        "rating": 6.1,
+        "reviewscount": "23K"
+    },
+    {
+        "name": "The Flash",
+        "releaseyear": 2023,
+        "rating": 6.8,
+        "reviewscount": "168K"
+    },
+    {
+        "name": "Strays",
+        "releaseyear": 2023,
+        "rating": 6.3,
+        "reviewscount": "10K"
+    },
+    {
+        "name": "Bottoms",
+        "releaseyear": 2023,
+        "rating": 7.6,
+        "reviewscount": "4.9K"
+    },
+    {
+        "name": "A Haunting in Venice",
+        "releaseyear": 2023,
+        "rating": 6.8,
+        "reviewscount": "1.5K"
+    },
+    {
+        "name": "Sound of Freedom",
+        "releaseyear": 2023,
+        "rating": 7.9,
+        "reviewscount": "56K"
+    },
+    {
+        "name": "Blue Beetle",
+        "releaseyear": 2023,
+        "rating": 6.7,
+        "reviewscount": "29K"
+    },
+    {
+        "name": "Gran Turismo",
+        "releaseyear": 2023,
+        "rating": 7.4,
+        "reviewscount": "22K"
+    },
+    {
+        "name": "Don't Worry Darling",
+        "releaseyear": 2022,
+        "rating": 6.3,
+        "reviewscount": "128K"
+    },
+    {
+        "name": "Talk to Me",
+        "releaseyear": 2022,
+        "rating": 7.3,
+        "reviewscount": "41K"
+    },
+    {
+        "name": "Meg 2: The Trench",
+        "releaseyear": 2023,
+        "rating": 5.2,
+        "reviewscount": "42K"
+    },
+    {
+        "name": "Spider-Man: Across the Spider-Verse",
+        "releaseyear": 2023,
+        "rating": 8.7,
+        "reviewscount": "257K"
+    },
+    {
+        "name": "Guardians of the Galaxy Vol. 3",
+        "releaseyear": 2023,
+        "rating": 7.9,
+        "reviewscount": "315K"
+    },
+    {
+        "name": "The Equalizer",
+        "releaseyear": 2014,
+        "rating": 7.2,
+        "reviewscount": "395K"
+    },
+    {
+        "name": "The Killer",
+        "releaseyear": 2023,
+        "rating": 7.5,
+        "reviewscount": "403K"
+    },
+    {
+        "name": "Dungeons & Dragons: Honor Among Thieves",
+        "releaseyear": 2023,
+        "rating": 7.3,
+        "reviewscount": "181K"
+    },
+    {
+        "name": "Red, White & Royal Blue",
+        "releaseyear": 2023,
+        "rating": 7,
+        "reviewscount": "35K"
+    },
+    {
+        "name": "The Nun",
+        "releaseyear": 2018,
+        "rating": 5.3,
+        "reviewscount": "155K"
+    },
+    {
+        "name": "Ferrari",
+        "releaseyear": 2023,
+        "rating": 6.9,
+        "reviewscount": "392K"
+    },
+    {
+        "name": "Love Again",
+        "releaseyear": 2023,
+        "rating": 5.8,
+        "reviewscount": "8.4K"
+    },
+    {
+        "name": "The Boogeyman",
+        "releaseyear": 2023,
+        "rating": 6,
+        "reviewscount": "22K"
+    },
+    {
+        "name": "X",
+        "releaseyear": 2022,
+        "rating": 6.6,
+        "reviewscount": "144K"
+    },
+    {
+        "name": "Past Lives",
+        "releaseyear": 2023,
+        "rating": 8.1,
+        "reviewscount": "21K"
+    },
+    {
+        "name": "My Big Fat Greek Wedding 3",
+        "releaseyear": 2023,
+        "rating": 5.4,
+        "reviewscount": "1.3K"
+    },
+    {
+        "name": "Heart of Stone",
+        "releaseyear": 2023,
+        "rating": 5.7,
+        "reviewscount": "46K"
+    },
+    {
+        "name": "Mission: Impossible - Dead Reckoning Part One",
+        "releaseyear": 2023,
+        "rating": 7.9,
+        "reviewscount": "138K"
+    },
+    {
+        "name": "The Batman",
+        "releaseyear": 2022,
+        "rating": 7.8,
+        "reviewscount": "730K"
+    },
+    {
+        "name": "Asteroid City",
+        "releaseyear": 2023,
+        "rating": 6.6,
+        "reviewscount": "72K"
+    },
+    {
+        "name": "Jailer",
+        "releaseyear": 2023,
+        "rating": 7.2,
+        "reviewscount": "20K"
+    },
+    {
+        "name": "Hypnotic",
+        "releaseyear": 2023,
+        "rating": 5.4,
+        "reviewscount": "21K"
+    },
+    {
+        "name": "The Super Mario Bros. Movie",
+        "releaseyear": 2023,
+        "rating": 7.1,
+        "reviewscount": "191K"
+    },
+    {
+        "name": "Expend4bles",
+        "releaseyear": 2023,
+        "rating": 5.4,
+        "reviewscount": "13K"
+    },
+    {
+        "name": "Elemental",
+        "releaseyear": 2023,
+        "rating": 7,
+        "reviewscount": "54K"
+    },
+    {
+        "name": "Saltburn",
+        "releaseyear": 2023,
+        "rating": 6.1,
+        "reviewscount": "139K"
+    },
+    {
+        "name": "The Ruins",
+        "releaseyear": 2008,
+        "rating": 5.9,
+        "reviewscount": "80K"
+    },
+    {
+        "name": "Pain Hustlers",
+        "releaseyear": 2023,
+        "rating": 7.4,
+        "reviewscount": "73K"
+    },
+    {
+        "name": "Interstellar",
+        "releaseyear": 2014,
+        "rating": 8.7,
+        "reviewscount": "2M"
+    },
+    {
+        "name": "Last Night in Soho",
+        "releaseyear": 2021,
+        "rating": 7,
+        "reviewscount": "160K"
+    },
+    {
+        "name": "Cobweb",
+        "releaseyear": 2023,
+        "rating": 5.9,
+        "reviewscount": "14K"
+    },
+    {
+        "name": "The Equalizer 2",
+        "releaseyear": 2018,
+        "rating": 6.7,
+        "reviewscount": "178K"
+    },
+    {
+        "name": "The Menu",
+        "releaseyear": 2022,
+        "rating": 7.2,
+        "reviewscount": "349K"
+    },
+    {
+        "name": "Babylon",
+        "releaseyear": 2022,
+        "rating": 7.1,
+        "reviewscount": "145K"
+    },
+    {
+        "name": "The Dark Knight",
+        "releaseyear": 2008,
+        "rating": 9,
+        "reviewscount": "2.8M"
+    },
+    {
+        "name": "John Wick: Chapter 4",
+        "releaseyear": 2023,
+        "rating": 7.8,
+        "reviewscount": "273K"
+    },
+    {
+        "name": "Priscilla",
+        "releaseyear": 2023,
+        "rating": 6.2,
+        "reviewscount": "206K"
+    },
+    {
+        "name": "Arrival",
+        "releaseyear": 2016,
+        "rating": 7.9,
+        "reviewscount": "736K"
+    },
+    {
+        "name": "The Pope's Exorcist",
+        "releaseyear": 2023,
+        "rating": 6.1,
+        "reviewscount": "62K"
+    },
+    {
+        "name": "A Day and a Half",
+        "releaseyear": 2023,
+        "rating": 5.8,
+        "reviewscount": "1.9K"
+    },
+    {
+        "name": "The Shawshank Redemption",
+        "releaseyear": 1994,
+        "rating": 9.3,
+        "reviewscount": "2.8M"
+    },
+    {
+        "name": "Choose Love",
+        "releaseyear": 2023,
+        "rating": 5.1,
+        "reviewscount": "1.7K"
+    },
+    {
+        "name": "The Godfather",
+        "releaseyear": 1972,
+        "rating": 9.2,
+        "reviewscount": "1.9M"
+    },
+    {
+        "name": "Champions",
+        "releaseyear": 2023,
+        "rating": 6.7,
+        "reviewscount": "19K"
+    },
+    {
+        "name": "Happy Ending",
+        "releaseyear": 2023,
+        "rating": 5.4,
+        "reviewscount": "865K"
+    },
+    {
+        "name": "The Big Short",
+        "releaseyear": 2015,
+        "rating": 7.8,
+        "reviewscount": "462K"
+    },
+    {
+        "name": "A Man Called Otto",
+        "releaseyear": 2022,
+        "rating": 7.5,
+        "reviewscount": "128K"
+    },
+    {
+        "name": "My Big Fat Greek Wedding",
+        "releaseyear": 2002,
+        "rating": 6.6,
+        "reviewscount": "140K"
+    },
+    {
+        "name": "The Deer Hunter",
+        "releaseyear": 1978,
+        "rating": 8.1,
+        "reviewscount": "352K"
+    },
+    {
+        "name": "Fast X",
+        "releaseyear": 2023,
+        "rating": 5.8,
+        "reviewscount": "93K"
+    },
+    {
+        "name": "Transformers: Rise of the Beasts",
+        "releaseyear": 2023,
+        "rating": 6.1,
+        "reviewscount": "80K"
+    },
+    {
+        "name": "The Covenant",
+        "releaseyear": 2023,
+        "rating": 7.5,
+        "reviewscount": "117K"
+    },
+    {
+        "name": "The Whale",
+        "releaseyear": 2022,
+        "rating": 7.7,
+        "reviewscount": "177K"
+    },
+    {
+        "name": "Avatar: The Way of Water",
+        "releaseyear": 2022,
+        "rating": 7.6,
+        "reviewscount": "458K"
+    },
+    {
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "releaseyear": 2001,
+        "rating": 7.6,
+        "reviewscount": "824K"
+    },
+    {
+        "name": "Dune",
+        "releaseyear": 2021,
+        "rating": 8,
+        "reviewscount": "715K"
+    },
+    {
+        "name": "The Meg",
+        "releaseyear": 2018,
+        "rating": 5.6,
+        "reviewscount": "197K"
+    },
+    {
+        "name": "Hacksaw Ridge",
+        "releaseyear": 2016,
+        "rating": 8.1,
+        "reviewscount": "566K"
+    },
+    {
+        "name": "Birth/Rebirth",
+        "releaseyear": 2023,
+        "rating": 6.2,
+        "reviewscount": "1.4K"
+    },
+    {
+        "name": "To Catch a Killer",
+        "releaseyear": 2023,
+        "rating": 6.6,
+        "reviewscount": "25K"
+    },
+    {
+        "name": "The Pod Generation",
+        "releaseyear": 2023,
+        "rating": 5.5,
+        "reviewscount": "1.3K"
+    },
+    {
+        "name": "Vacation Friends 2",
+        "releaseyear": 2023,
+        "rating": 5.3,
+        "reviewscount": "4.8K"
+    },
+    {
+        "name": "The Palace",
+        "releaseyear": 2023,
+        "rating": 4.6,
+        "reviewscount": "188K"
+    },
+    {
+        "name": "Cocaine Bear",
+        "releaseyear": 2023,
+        "rating": 5.9,
+        "reviewscount": "90K"
+    },
+    {
+        "name": "Inception",
+        "releaseyear": 2010,
+        "rating": 8.8,
+        "reviewscount": "2.5M"
+    },
+    {
+        "name": "The Wolf of Wall Street",
+        "releaseyear": 2013,
+        "rating": 8.2,
+        "reviewscount": "1.5M"
+    },
+    {
+        "name": "Evil Dead Rise",
+        "releaseyear": 2023,
+        "rating": 6.6,
+        "reviewscount": "112K"
+    },
+    {
+        "name": "Tenet",
+        "releaseyear": 2020,
+        "rating": 7.3,
+        "reviewscount": "560K"
+    },
+    {
+        "name": "Maestro",
+        "releaseyear": 2023,
+        "rating": 6.7,
+        "reviewscount": "233"
+    },
+    {
+        "name": "Top Gun: Maverick",
+        "releaseyear": 2022,
+        "rating": 8.3,
+        "reviewscount": "629K"
+    },
+    {
+        "name": "The Little Things",
+        "releaseyear": 2021,
+        "rating": 6.3,
+        "reviewscount": "116K"
+    },
+    {
+        "name": "My Fault",
+        "releaseyear": 2023,
+        "rating": 6.2,
+        "reviewscount": "18K"
+    }
+]

@@ -1,0 +1,33 @@
+.search-bar {
+  border-radius: 4px;
+  border: none;
+  padding: 16px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.input {
+  font-family: monospace;
+  flex: 1;
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.button {
+  background-color: #022956;
+  padding: 8px 16px;
+  font-family: monospace;
+  font-weight: 900;
+  font-size: 16px;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.button:hover {
+  background-color: #063c75;
+}
